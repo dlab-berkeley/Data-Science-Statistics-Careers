@@ -13,38 +13,28 @@ Check out D-Lab’s [Workshop Catalog](https://dlab-berkeley.github.io/dlab-work
 
 ## Workshop Goals
 
-In this workshop, we provide [WorkshopGoal]. First, we’ll cover [Aim1]. Then,
-we’ll explore [Aim2]. 
-
-_Only if necessary:_ If you are not familiar with material in
-[D-LabWorkshop1](D-LabWorkshop1Link), [D-LabWorkshop2](D-LabWorkshop2Link), and
-[AdditionalWorkshopsAsNeeded](LinksToWorkshops), we recommend attending those
-workshops first.
+In this workshop, we will explore different careers and industries for those with a statistics/data science degree as well as various opportunities to pursue during their undergraduate degree.
 
 ## Learning Objectives
 
 After this workshop, you will be able to:
 
-- [LearningObjective1].
-- [LearningObjective2].
-- [LearningObjective3].
-
-This workshop does not cover the following:
-
-- [NotCovered1]. These are covered in [D-LabWorkshopName](URL).
-- [NotCovered2]. These are covered in [D-LabWorkshopName](URL).
+- explore different career options for a post-grad statistics/data science degree.
+- understand whether you should consider and how to apply to graduate school given your career goals.
+- take advantage of campus resources to find internships and research opportunities to navigate the statistics/data science field.
 
 ## Workshop Materials
 
-* Slides
+* [Slides](https://docs.google.com/presentation/d/1o8IOLd7pqLVQIt5kdjG2CrlA3sezCLpXfs5Ck4kk2qU/edit?slide=id.p#slide=id.p)
 
 # Additional Resources
 
-Check out the following resources to learn more about [Workshop topics]:
+Check out the following resources to learn more about Statistics/Data Science careers:
 
-* [Resource1](LinkToResource1): _Explain Resource 1_
-* [Resource2](LinkToResource2): _Explain Resource 2_
-* [...]
+* [Grad School (UC Berkeley Career Engagement)](https://career.berkeley.edu/get-into-grad-school/graduate-school/): _More information about navigating graduate school applications_
+* [Data Science Career Services](https://cdss.berkeley.edu/dsus/data-science-career-services/advising-resources): _More information about data science career paths_
+* [Career Services (UC Berkeley Statistics)](https://statistics.berkeley.edu/careers/career-services): _More information about statistics career paths_
+* [What Can I Do With a Degree in Data Science? Career Paths & Skills](https://seas.harvard.edu/news/what-can-i-do-degree-data-science-career-paths-skills): _More information about the skills needed for data science careers_
 
 
 # About the UC Berkeley D-Lab
